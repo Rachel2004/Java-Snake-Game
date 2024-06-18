@@ -21,7 +21,9 @@ The objective is to grow the snake as long as possible without running into the 
 - **Right Arrow**: Move the snake right
 
 ## Gameplay
+![Gameplay Screenshot](/assets/gameplay.png)
 
-![Gameplay Screenshot](/assets/images/gameplay.png)
+## Gameover
+![Gameover Screenshot](/assets/gameover.png)
 
 Don't forget to give the project a star! Thanks again!
