@@ -25,7 +25,3 @@ The objective is to grow the snake as long as possible without running into the 
 ![Gameplay Screenshot](/assets/images/gameplay.png)
 
 Don't forget to give the project a star! Thanks again!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
